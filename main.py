@@ -5,7 +5,7 @@ import time
 
 
 MY_EMAIL = "pythontestcode74@gmail.com"
-MY_PASSWORD = "uvcy rtnu qcfj tpmk"
+MY_PASSWORD = "uvcyrtnuqcfjtpmk"
 
 MY_LAT = 51.507351 # Your latitude
 MY_LONG = -0.127758 # Your longitude
